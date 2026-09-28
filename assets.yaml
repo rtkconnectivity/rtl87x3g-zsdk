@@ -1,0 +1,15 @@
+version: v1.0.0.21
+product: common
+archives:
+- dir: bin
+  archive: bin.zip
+  url: https://github.com/rtkconnectivity/rtl87x3g-zsdk/releases/download/common/v1.0.0.21/bin.zip
+  sha256: afede5fc465a40bd72f52a5066dea1c4ea71dcab17318feceab0959a763c4b07
+  size: 50952426
+  files: 241
+- dir: tools
+  archive: tools.zip
+  url: https://github.com/rtkconnectivity/rtl87x3g-zsdk/releases/download/common/v1.0.0.21/tools.zip
+  sha256: f98be681ebe9cef1450a4109a8e54341e12d08fd9900cdb6631dd08f9b89a7a4
+  size: 525139576
+  files: 16
